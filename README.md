@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**Raquel32132/raquel32132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hi, I'm Raquel! 👋**
 
-Here are some ideas to get you started:
+* * *
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**About me:**
+- 💻 I'm passionate about frontend development since 2020
+- ⚛️ I have studies in JavaScript | ReactJS | HTML | CSS
+- 🔍 I'm looking for a first job opportunity 
+- 📚 I'm majoring in Internet Systems at IFC (Instituto Federal Catarinense)
+- 🎓 I am a computer technician
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jakelinygracielly/) and [Gmail](raquelrbackes@gmail.com)
+
+
+
+**Languages and tools:**
+
+<img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/javascript.png">
+<img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/typescript.png">
+<img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/react.png">
+<img align="left" height="20"

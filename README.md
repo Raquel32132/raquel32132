@@ -9,7 +9,7 @@
 - 🔍 I'm looking for a first job opportunity 
 - 📚 I'm majoring in Internet Systems at IFC (Instituto Federal Catarinense)
 - 🎓 I am a computer technician
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jakelinygracielly/) and [Gmail](raquelrbackes@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jakelinygracielly/) and Gmail: raquelrbackes@gmail.com
 
 
 
